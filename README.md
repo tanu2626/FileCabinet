@@ -1,24 +1,11 @@
-# README
+# File Cabinet
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Made in Ruby on Rails
+##### Ruby Practice
 
-Things you may want to cover:
+### Problem:
+We often find our documents lying here and there and sometimes it becomes really annoying to find a right document on a right time.
 
-* Ruby version
+### Solution:
+This simple app will give you access to create a document and save it. You can use it whenever you want with simply login to your account.
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
